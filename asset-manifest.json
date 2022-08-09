@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AdminApp/static/css/main.42c683a3.css",
+    "main.js": "/AdminApp/static/js/main.378cfd24.js",
+    "static/media/profile.jpg": "/AdminApp/static/media/profile.792832a03d5abbaac49f.jpg",
+    "index.html": "/AdminApp/index.html",
+    "main.42c683a3.css.map": "/AdminApp/static/css/main.42c683a3.css.map",
+    "main.378cfd24.js.map": "/AdminApp/static/js/main.378cfd24.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42c683a3.css",
+    "static/js/main.378cfd24.js"
+  ]
+}
