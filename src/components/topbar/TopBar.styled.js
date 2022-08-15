@@ -7,7 +7,8 @@ export const TopBarContainer = styled.div`
     align-items: center;
     padding: .5rem;
     color: purple;
-    position: sticky;
+    position: fixed;
+    z-index: 100;
     max-width: 100vw;
     top: 0;
     right: 0;

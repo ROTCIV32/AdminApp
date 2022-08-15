@@ -1,16 +1,15 @@
 import React from "react";
-import { ChatData } from "./ChartsData";
 import {
   LineChart,
   Line,
   XAxis,
-  YAxis,
+  // YAxis,
   CartesianGrid,
   Tooltip,
-  Legend,
+  // Legend,
   ResponsiveContainer,
 } from "recharts";
-import { Widgets } from "../widgets/Widgets";
+import { Widgets } from "../widgets/HomeComp";
 
 const Charts = ({ title, data, datakey, grid }) => {
   return (

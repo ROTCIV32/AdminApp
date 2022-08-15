@@ -8,7 +8,6 @@ export const HomeContainer = styled.div`
 
 `
 
-
 export const Features  = styled.div`
     display: flex;
     flex-direction: row;
